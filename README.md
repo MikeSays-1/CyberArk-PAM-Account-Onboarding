@@ -1,3 +1,9 @@
+<p align="center">
+
+<img src="images/cyberarklogo.png" width="400" />
+
+</p>
+
 <h1>CyberArk PAM: Privileged Account Onboarding and Credential Management</h1>
 In this lab, we used CyberArk Privileged Access Manager (PAM) to onboard a Windows local administrator account, verify and rotate its password using Central Policy Manager (CPM), and establish an RDP session through Privileged Session Manager (PSM). We also investigated a password rotation error related to Windows password policy. This lab demonstrates how CyberArk manages privileged credentials and allows access to a target system without revealing the rotated password. <br />
 
