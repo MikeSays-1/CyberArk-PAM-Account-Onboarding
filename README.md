@@ -17,7 +17,7 @@ In this lab, we used CyberArk Privileged Access Manager (PAM) to onboard a Windo
 
 <h2>Operating Systems Used</h2>
 
-- Windows Server (TARGET01: Windows Server 2019)
+- Windows Server 2019
 
 <h2>High-Level Steps</h2>
 
